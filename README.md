@@ -29,4 +29,4 @@ $ react-native run-android
 
 **Application pages**
 
-![APP](https://github.com/Tiago1106/gitRepos/tree/master/src/assets/photo_app.png)
+![APP](https://github.com/Tiago1106/gitRepos/blob/master/src/assets/photo_app.png)
