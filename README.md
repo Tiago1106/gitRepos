@@ -6,8 +6,9 @@ This application aims to search the public repositories of a certain user, and s
 
 **Requirements:**
 
-- [react-native.js] (https://reactnative.dev) (tested with v0.62.2)
+- [react-native] (https://reactnative.dev) (tested with v0.62.2)
 - [Yarn] (https://classic.yarnpkg.com/en/docs/install#windows-stable) (tested with v1.22.4)
+- [API] api used for application development:  https://api.github.com/
 
 **Install**
 
