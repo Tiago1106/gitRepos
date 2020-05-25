@@ -4,7 +4,7 @@ This application aims to search the public repositories of a certain user, and s
 
 ## Starting
 
-** Requirements: **
+**Requirements:**
 
 - [react-native.js] (https://reactnative.dev) (tested with v0.62.2)
 - [Yarn] (https://classic.yarnpkg.com/en/docs/install#windows-stable) (tested with v1.22.4)
@@ -12,11 +12,15 @@ This application aims to search the public repositories of a certain user, and s
 **Install**
 
 $ git clone https://github.com/Tiago1106/gitRepos
+
 $ cd gitRepos
+
 $ yarn
 
-** Running the project on android **
+**Running the project on android**
 
 $ yarn android
+
 or
+
 $ react-native run-android
