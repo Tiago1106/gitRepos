@@ -37,7 +37,7 @@ export const Title = styled.Text.attrs({
   `;
 
 export const Subtitle = styled.Text`
-  margin-top: -5px;
+  margin-top: 0px;
   color: white;
   font-size: 12px;
 `;
